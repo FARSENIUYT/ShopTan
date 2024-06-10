@@ -1,4 +1,3 @@
-#VOY
 <body>
     <div id="main">
         <h1>ТЕСТОВАЯ ФОРМА</h1>
@@ -7,4 +6,3 @@
         <button id="buy">купить</button>
     </div>
 </body>
-</html>
