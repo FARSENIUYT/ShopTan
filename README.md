@@ -56,7 +56,7 @@
 <body>
     <div id="main">
         <h1>Магазин Тян</h1>
-        <img src="https://cdn-icons-png.flaticon.com/512/3595/3595455.png">
+        <img src="sticker.png">
         <p>Хочешь купить меня, если да то нажимай кнопку!</p>
         <button id="buy">купить</button>
     </div>
