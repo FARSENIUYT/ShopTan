@@ -24,17 +24,15 @@
         }
 
         img {
-            width: 250px;
-            margin: 100px auto;
-            background: var(--tg-theme-bg-color);
-       
+            width: 70px;
+            margin: 30px auto;
         }
 
         p {
             width: 350px;
             margin: 0 auto;
-            color: chocolate;
-            background-color: aliceblue;
+            color: var(--tg-theme-text-color);
+            background: var(--tg-theme-bg-color);
         }
 
         button {
