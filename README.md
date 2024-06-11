@@ -26,6 +26,8 @@
         img {
             width: 250px;
             margin: 100px auto;
+            background: var(--tg-theme-bg-color);
+       
         }
 
         p {
