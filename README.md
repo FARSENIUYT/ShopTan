@@ -8,8 +8,7 @@
         body {
             font-family: 'Montserrat', sans-serif;
             font-weight: 200;
-            color: var(--tg-theme-text-color);
-            background: var(--tg-theme-bg-color);
+            color: brown;
         }
 
         #main {
@@ -19,37 +18,39 @@
         }
 
         h1 {
-            margin-top: 50px;
-            margin-bottom: 10px;
+            margin-top: 100px;
+            margin-bottom: 30px;
         }
 
         img {
-            width: 70px;
-            margin: 30px auto;
+            width: 250px;
+            margin: 100px auto;
         }
 
         p {
             width: 350px;
             margin: 0 auto;
+            color: chocolate;
+            background-color: aliceblue;
         }
 
         button {
             border: 0;
-            border-radius: 5px;
-            margin-top: 50px;
-            height: 60px;
-            width: 200px;
-            font-size: 20px;
-            font-weight: 500;
+            border-radius: 10px;
+            margin-top: 100px;
+            height: 80px;
+            width: 300px;
+            font-size: 30px;
+            font-weight: 1000;
             cursor: pointer;
             transition: all 500ms ease;
-            color: var(--tg-theme-button-color);
-            background: var(--tg-theme-button-text-color);
+            color: dodgerblue;
+            background: chartreuse;
         }
 
         button:hover {
-            background: var(--tg-theme-secondary-bg-color);
-            }
+            background: aqua;
+        }
 </style>
 <body>
     <div id="main">
