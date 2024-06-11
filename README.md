@@ -59,5 +59,4 @@
         <p>Хочешь купить меня, если да то нажимай кнопку!</p>
         <button id="buy">купить</button>
     </div>
-       <script src="https://telegram.org/js/telegram-web-app.js"></script>
 </body>
