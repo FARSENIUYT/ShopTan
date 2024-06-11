@@ -1,4 +1,4 @@
-
+<style>
         * {
             margin: 0;
             padding: 0;
@@ -50,6 +50,7 @@
         button:hover {
             background: var(--tg-theme-secondary-bg-color);
             }
+</style>
 <body>
     <div id="main">
         <h1>ТЕСТОВАЯ ФОРМА</h1>
