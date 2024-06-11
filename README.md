@@ -56,7 +56,7 @@
 <body>
     <div id="main">
         <h1>Магазин Тян</h1>
-        <img src="https://w7.pngwing.com/pngs/360/998/png-transparent-elesis-elsword-anime-crimson-avenger-game-long-hair-cg-artwork-black-hair-fictional-character.png">
+        <img src="https://cdn-icons-png.flaticon.com/512/3595/3595455.png">
         <p>Хочешь купить меня, если да то нажимай кнопку!</p>
         <button id="buy">купить</button>
     </div>
