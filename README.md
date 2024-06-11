@@ -54,9 +54,10 @@
 </style>
 <body>
     <div id="main">
-        <h1>ТЕСТОВАЯ ФОРМА</h1>
-        <img src="https://freepngimg.com/thumb/tiger/11-2-tiger-png-image.png">
-        <p>ТИГРЕНОК</p>
+        <h1>Магазин Тян</h1>
+        <img src="https://w7.pngwing.com/pngs/360/998/png-transparent-elesis-elsword-anime-crimson-avenger-game-long-hair-cg-artwork-black-hair-fictional-character.png">
+        <p>Хочешь купить меня, если да то нажимай кнопку!</p>
         <button id="buy">купить</button>
     </div>
+       <script src="https://telegram.org/js/telegram-web-app.js"></script>
 </body>
