@@ -9,7 +9,7 @@
             font-family: 'Montserrat', sans-serif;
             font-weight: 200;
             color: brown;
-            background: dimgrey;
+            background: var(--tg-theme-bg-color);
         }
 
         #main {
